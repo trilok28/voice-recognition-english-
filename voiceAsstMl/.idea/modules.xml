@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python program/VoiceRecognition_project/.idea/VoiceRecognition_project.iml" filepath="$PROJECT_DIR$/../python program/VoiceRecognition_project/.idea/VoiceRecognition_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../justDemo/.idea/justDemo.iml" filepath="$PROJECT_DIR$/../justDemo/.idea/justDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/voiceAsstML.iml" filepath="$PROJECT_DIR$/.idea/voiceAsstML.iml" />
+    </modules>
+  </component>
+</project>
